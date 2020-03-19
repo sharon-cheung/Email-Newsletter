@@ -1,0 +1,3 @@
+Name	Email	News	Language	Country	Query	Category	Source
+Name1	name1@email.com	TRUE	en	ca	FALSE	FALSE	FALSE
+Name2	name2@email.com	FALSE	en	FALSE	games	FALSE	FALSE
