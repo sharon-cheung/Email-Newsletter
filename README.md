@@ -18,7 +18,7 @@ These parameters can also take on the following: (pulled from https://newsapi.or
 
 'Language' can take on one of: ar, de, en, es, fr, he, it, nl, no, pt, ru, se, ud, zh.
 
-'Country' allows the include FALSE (meaning the news will be from any country) but can also be from any of the countries from https://newsapi.org/sources)
+'Country' allows the include FALSE (meaning the news will be from any country) but can also be from any of the countries from https://newsapi.org/sources
 
 'Query' takes in a keyword for the news to filter by.
 
